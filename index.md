@@ -5,7 +5,7 @@
     <h4>xStream ist ein Video Addon für das Mediacenter Kodi
      <p>Es ist kein Bestandteil von Kodi</p>
       <p>xStream dient nur als Suchmaschine und hostet selbst keine Dateien!</p>
-      <p><h4>Eine ausführliche FAQ zur Installation, Übersicht und Problemlösungen ist hier zu finden:</h4></p>
+      <h4><p>Eine ausführliche FAQ zur Installation, Übersicht und Problemlösungen ist hier zu finden:</p></h4>
     <a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md">FAQ</a> 
     <h2>Zum Chatroom:</h2>
     <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a>
