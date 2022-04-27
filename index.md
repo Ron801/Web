@@ -8,8 +8,8 @@
       <p>Eine ausführliche FAQ zur Installation, Übersicht und Problemlösungen ist hier zu finden:</p></h4>
     <a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md">FAQ</a> 
     <h4><p>Zum Chatroom:</h4>
-    <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a>
-    <h4>Downloads:</h4>
+    <p><a href="https://gitter.im/Lastship_Chat/xStream">Chat</a>
+    <h4><p>Downloads:</h4>
     <p><a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a></p>
   </body>
 </html>
