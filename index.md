@@ -6,9 +6,9 @@
     <h2>Es ist kein Bestandteil von Kodi</h2>
     <h2>xStream dient nur als Suchmaschine und hostet selbst keine Dateien!<h2>
     <h2>Eine ausführliche FAQ zur Installation, Übersicht und Problemlösungen ist hier zu finden:<h2>
-    <h2><a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md"><h2>
+    <a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md"></a> 
     <h2>Zum Chatroom:<h2>
-    <h2><a href="https://gitter.im/Lastship_Chat/xStream"><h2>
-  <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a>
+    <p dir="auto"><a href="https://gitter.im/Lastship_Chat/xStream"></a></p>
+    <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a>
   </body>
 </html>
