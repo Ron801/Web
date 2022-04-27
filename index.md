@@ -1,7 +1,7 @@
 <html>
   <body>
-    <h1>Insatllation von xStream Repository</h1>
+  <h1>Installation von xStream Repository</h1>
+  <img src="icon.png" style="max-width: 50%;">
   <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a>
-  <img src="icon.png" style="max-width: 100%;">
   </body>
 </html>
