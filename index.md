@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <title>Willkommen bei xStream!</title>
+  </head>
   <body>
   <h1>Installation von xStream Repository</h1>
   <img src="icon.png" style="max-width: 40%;">
