@@ -10,7 +10,7 @@
      <p>Eine ausführliche FAQ zur Installation, In Kodi als Quelle einbinden, Übersicht und Problemlösungen ist hier zu finden:
       <a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md">FAQ</a></p> 
      <p><b>Zum Chatroom:</b>
-      <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a></p>
+      <a href="https://gitter.im/streamxstream/community?source=orgpage">Chat</a></p>
       <!--Download Buttom-->
       <p><a href="repository.xstream-1.1.9.zip"><img src="https://raw.githubusercontent.com/Ron801/Web/gh-pages/Download%20Bild.jpg" style="max-width: 20%;"></a></p></h4>
   </body>
