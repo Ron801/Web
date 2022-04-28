@@ -7,7 +7,7 @@
      <p>xStream dient nur als Suchmaschine und hostet selbst keine Dateien!</p>
      <p>Eine ausführliche FAQ zur Installation, Übersicht und Problemlösungen ist hier zu finden:</p></h4>
      <a href="https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md">FAQ</a> 
-    <h4><p>Zum Chatroom:
+    <h4><p>Zum Chatroom:</p>
     <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a></p>
     <p>Downloads
     <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a></p></h4>
