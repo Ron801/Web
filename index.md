@@ -10,7 +10,7 @@
      <p>Zum Chatroom:
       <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a></p>
       <!--Download Buttom-->
-      <p><a href="https://github.com/Ron801/Web/blob/gh-pages/repository.xstream-1.1.9.zip?raw=true"><img src="https://raw.githubusercontent.com/Ron801/Web/gh-pages/Download%20Bild.jpg" alt="Gitter"></a></p>
+      <p><a href="https://github.com/Ron801/Web/blob/gh-pages/repository.xstream-1.1.9.zip?raw=true"><img src="https://raw.githubusercontent.com/Ron801/Web/gh-pages/Download%20Bild.jpg" style="max-width: 20%; alt="Download"></a></p>
       
       <p>Download:
       <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a></p></h4>
