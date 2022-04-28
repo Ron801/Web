@@ -1,7 +1,8 @@
 <html>
   <body>
-  <h1>Installation von xStream Repository</h1>
+  <h1>Willkommen bei xStream</h1>
   <img src="icon.png" style="max-width: 40%;">
+    <h2>Installation von xStream Repository</h2>
     <h4><p>xStream ist ein Video Addon für das Mediacenter Kodi</p>
      <p>Es ist kein Bestandteil von Kodi</p>
      <p>xStream dient nur als Suchmaschine und hostet selbst keine Dateien!</p>
