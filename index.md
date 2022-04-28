@@ -11,9 +11,5 @@
       <a href="https://gitter.im/Lastship_Chat/xStream">Chat</a></p>
      <p>Download:
       <a href="repository.xstream-1.1.9.zip">repository.xstream-1.1.9.zip</a></p></h4>
-     <form>
-      <input type="buttom" value="Download Bild" 
-       onClick="window.location.href='https://github.com/Ron801/Web/blob/gh-pages/repository.xstream-1.1.9.zip'"
-     </form>
   </body>
 </html>
